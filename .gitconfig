@@ -1,0 +1,12 @@
+[user]  
+  email = ksk.ktkr.ksk@gmail.com
+  name = Keisuke Ito
+[core]
+  editor = vim
+[alias]
+  b = branch
+  co = checkout
+  cm = commit
+  st = status
+  s = status
+  d = diff
